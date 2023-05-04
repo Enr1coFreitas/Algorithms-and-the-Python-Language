@@ -54,7 +54,7 @@ Existe mais de uma maneira de resolver o problema, e essa diferença mostra um p
 
 Outro jeito envolve criar uma abstração, uma carta “virtual” de valor infinito que começa presente no baralho de saída. Quando o algoritmo termina, você entrega a saída sem essa carta de valor infinito. Você consegue ver como essa abstração resolve o problema sem alterar o algoritmo original?
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bce11c50-8d41-4fe9-ae68-3ed37457a88d/Untitled.png)
+![Untitled](./images/Untitled.png)
 
 # Procedimentos e funções
 
@@ -536,7 +536,7 @@ Nesse segundo array, você pode realizar todo tipo de interação que pode ser f
 
 Esse pensamento pode ser propagado por quantas dimensões você desejar, aninhando arrays dentro de arrays. A seguir, temos o exemplo de uma matriz:
 
-![4.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c9d68f32-7a36-4bcf-8ff1-54008b6eb73c/4.jpg)
+![4](./images/4.jpg)
 
 Nessa matriz, o primeiro elemento matriz[0] é o vetor(1,2,3,4). O segundo elemento matriz[1] é o vetor (2,4,6,8), e assim por diante.
 
